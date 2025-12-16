@@ -97,7 +97,7 @@ Processes the input and returns the prediction.
 📊 Model Performance
 (Optional: Update this section with your actual results)
 
-Best Model: CatBoost Regressor
+Best Model: Ridge	, Linear Regression	,CatBoosting, Regressor
 
 Accuracy/R2 Score: 87.5%
 
